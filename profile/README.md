@@ -1,10 +1,10 @@
+![image](https://github.com/CleverPe/.github/assets/159437468/5e595ae9-0ad8-43f2-bbfa-5c10b33062e9)
+
 <div align="center">
 <img src="https://github.com/CleverPe/.github/assets/159437468/549548f6-15b9-4cbe-a8c6-e994294afa9d" />
 <h1>CleverPe</h1>
 <h3>Smartest Way India Can Pay</h3>
 </div>
-
-![image](https://github.com/CleverPe/.github/assets/159437468/5e595ae9-0ad8-43f2-bbfa-5c10b33062e9)
 
 ## Overview
 
